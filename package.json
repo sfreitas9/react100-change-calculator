@@ -29,6 +29,7 @@
     "nightmare-react-utils": "^1.0.4",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
+    "react-reveal": "^1.2.2",
     "serve-favicon": "^2.0.1",
     "webpack": "^4.8.3",
     "webpack-cli": "^2.1.3"
