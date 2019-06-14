@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Slide from 'react-reveal/Slide'; 
+import Slide from 'react-reveal/Slide';
 
 class App extends Component {
   constructor(props) {
